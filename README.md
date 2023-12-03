@@ -1,4 +1,7 @@
-### Hi there 👋
+### 
+- 👋🏼 Hello there, I'm Charmaine.
+- 🚀 I'm interested in all things Data Science!
+- 🤓 HyperionDev Data Science Bootcamp Student at your service!
 
 <!--
 **gitgit-hooray/gitgit-hooray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
