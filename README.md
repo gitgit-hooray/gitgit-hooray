@@ -1,4 +1,3 @@
-### 
 - 👋🏼 Hello there, I'm Charmaine.
 - 🚀 I'm interested in all things Data Science!
 - 🤓 HyperionDev Data Science Bootcamp Student at your service!
